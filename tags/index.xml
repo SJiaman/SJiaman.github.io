@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Shijin&#39;s Blog</title>
+    <link>https://SJiaman.github.io/tags/</link>
+    <description>Recent content in Tags on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 13 Aug 2018 16:30:30 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://SJiaman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>istio</title>
+        <link>https://SJiaman.github.io/tags/istio/</link>
+        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://SJiaman.github.io/tags/istio/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>kubernetes</title>
+        <link>https://SJiaman.github.io/tags/kubernetes/</link>
+        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://SJiaman.github.io/tags/kubernetes/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>service mesh</title>
+        <link>https://SJiaman.github.io/tags/service-mesh/</link>
+        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://SJiaman.github.io/tags/service-mesh/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>math</title>
+        <link>https://SJiaman.github.io/tags/math/</link>
+        <pubDate>Sat, 03 Dec 2016 23:59:48 +0000</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://SJiaman.github.io/tags/math/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
