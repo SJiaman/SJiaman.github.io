@@ -7,17 +7,17 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Shijin&#39;s Blog</title>
-    <link>https://SJiaman.github.io/categories/</link>
+    <link>https://shijin.fun/categories/</link>
     <description>Recent content in Categories on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
     <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 13 Aug 2018 16:30:30 +0800</lastBuildDate>
+    <copyright>&amp;copy;2019-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 16:30:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://SJiaman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shijin.fun/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,12 +25,12 @@
       
       
       <item>
-        <title>service mesh</title>
-        <link>https://SJiaman.github.io/categories/service-mesh/</link>
-        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <title>博客</title>
+        <link>https://shijin.fun/categories/%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Sat, 25 Apr 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/categories/service-mesh/</guid>
+        <guid>https://shijin.fun/categories/%E5%8D%9A%E5%AE%A2/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
@@ -43,12 +43,48 @@
       </item>
       
       <item>
-        <title>math</title>
-        <link>https://SJiaman.github.io/categories/math/</link>
-        <pubDate>Sat, 03 Dec 2016 23:59:48 +0000</pubDate>
+        <title>Docker</title>
+        <link>https://shijin.fun/categories/docker/</link>
+        <pubDate>Thu, 26 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/categories/math/</guid>
+        <guid>https://shijin.fun/categories/docker/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://shijin.fun/categories/python/</link>
+        <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://shijin.fun/categories/python/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Markdown</title>
+        <link>https://shijin.fun/categories/markdown/</link>
+        <pubDate>Mon, 02 Mar 2020 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://shijin.fun/categories/markdown/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>

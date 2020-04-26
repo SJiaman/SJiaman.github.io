@@ -7,17 +7,17 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Shijin&#39;s Blog</title>
-    <link>https://SJiaman.github.io/tags/</link>
+    <link>https://shijin.fun/tags/</link>
     <description>Recent content in Tags on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
     <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
-    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 13 Aug 2018 16:30:30 +0800</lastBuildDate>
+    <copyright>&amp;copy;2019-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 16:30:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://SJiaman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shijin.fun/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,12 +25,12 @@
       
       
       <item>
-        <title>istio</title>
-        <link>https://SJiaman.github.io/tags/istio/</link>
-        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <title>Hugo</title>
+        <link>https://shijin.fun/tags/hugo/</link>
+        <pubDate>Sat, 25 Apr 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/tags/istio/</guid>
+        <guid>https://shijin.fun/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
@@ -43,12 +43,12 @@
       </item>
       
       <item>
-        <title>kubernetes</title>
-        <link>https://SJiaman.github.io/tags/kubernetes/</link>
-        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <title>Docker</title>
+        <link>https://shijin.fun/tags/docker/</link>
+        <pubDate>Thu, 26 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/tags/kubernetes/</guid>
+        <guid>https://shijin.fun/tags/docker/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
@@ -61,12 +61,12 @@
       </item>
       
       <item>
-        <title>service mesh</title>
-        <link>https://SJiaman.github.io/tags/service-mesh/</link>
-        <pubDate>Mon, 13 Aug 2018 16:30:30 +0800</pubDate>
+        <title>Excel</title>
+        <link>https://shijin.fun/tags/excel/</link>
+        <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/tags/service-mesh/</guid>
+        <guid>https://shijin.fun/tags/excel/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
@@ -79,12 +79,66 @@
       </item>
       
       <item>
-        <title>math</title>
-        <link>https://SJiaman.github.io/tags/math/</link>
-        <pubDate>Sat, 03 Dec 2016 23:59:48 +0000</pubDate>
+        <title>Python</title>
+        <link>https://shijin.fun/tags/python/</link>
+        <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         
-        <guid>https://SJiaman.github.io/tags/math/</guid>
+        <guid>https://shijin.fun/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Markdown</title>
+        <link>https://shijin.fun/tags/markdown/</link>
+        <pubDate>Mon, 02 Mar 2020 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://shijin.fun/tags/markdown/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>github</title>
+        <link>https://shijin.fun/tags/github/</link>
+        <pubDate>Tue, 08 Oct 2019 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://shijin.fun/tags/github/</guid>
+        <description></description>
+        
+        <dc:creator>一只特立独行的猴子</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hexo</title>
+        <link>https://shijin.fun/tags/hexo/</link>
+        <pubDate>Tue, 08 Oct 2019 16:30:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        
+        <guid>https://shijin.fun/tags/hexo/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
