@@ -1275,22 +1275,10 @@
 
 <link rel="manifest" href="/manifest.json">
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-512x512.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.png" sizes="any" type="image/png" />
+  
 
 
     <script type="application/ld+json">
@@ -1301,7 +1289,7 @@
     "datePublished": "2020-04-25T16:30:30+08:00",
     "dateModified": "2020-04-25T16:30:30+08:00",
     "url" : "https://shijin.fun/posts/hexo-move-hugo/",
-    "description": "前几天完成了hexo向hugo的迁移",
+    "description": "前几天完成了hexo向hugo的迁移，记录一下过程。 1. 原因 hugo比hexo更快，文章多后就会有差异 hugo是用go写的，正好我正准备学习g",
     "keywords": ["Hugo"],
     "author": {
       "@type": "Person",
@@ -1662,7 +1650,7 @@
 <div class="single__infos">
   <time class="single__info" title="创建日期">📅&nbsp;2020年04月25日 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;1&nbsp;分钟 </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;3&nbsp;分钟 </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="作者">✍️&nbsp;世今</span>
   
@@ -1686,7 +1674,112 @@
         
 
         
-          <p>前几天完成了hexo向hugo的迁移</p>
+          <p>前几天完成了hexo向hugo的迁移，记录一下过程。</p>
+<h2 id="span-idinline-toc1span-原因"><span id="inline-toc">1.<span> 原因</h2>
+<ul>
+<li>hugo比hexo更快，文章多后就会有差异</li>
+<li>hugo是用go写的，正好我正准备学习go，所以就当学习</li>
+</ul>
+<h2 id="span-idinline-toc2span-hexo和hugo的差异"><span id="inline-toc">2.<span> hexo和hugo的差异</h2>
+<p>在hugo的官网上hugo是这样介绍的</p>
+<p><strong>The world’s fastest framework for building websites</strong></p>
+<p>确实是这样，hugo不管在安装和使用上都要比hexo简单一点，更容易上手，hugo与hexo类似，但比hexo更高效、简洁、扩展性强。</p>
+<h3 id="在安装上">在安装上</h3>
+<p>hugo只需要一个二进制文件即可，而hexo必须安装一些其他依赖。</p>
+<hr />
+<p>更多hugo信息请看hugo官网<a href="https://gohugo.io/">https://gohugo.io/</a></p>
+<h2 id="span-idinline-toc3spanhugo的使用"><span id="inline-toc">3.<span>hugo的使用</h2>
+<h3 id="一首先你的电脑必须安装">一、首先你的电脑必须安装</h3>
+<pre><code>+ Git
++ Go(https://golang.google.cn/)
+</code></pre>
+<h3 id="二源码安装">二、源码安装</h3>
+<ol>
+<li>到GitHub上下载关于自己电脑配置的版本https://github.com/gohugoio/hugo/releases，下载</li>
+<li>在自己电脑下的创建一个bin目录任意位置解压</li>
+<li>把带有Hugo.exe的目录添加到环境变量</li>
+<li>使用hugo version检查安装是否成功</li>
+</ol>
+<h3 id="三创建站点">三、创建站点</h3>
+<p><code>hugo new site blog</code> 创建一个名为blog的站点</p>
+<div class="highlight"><pre class="chroma"><code class="language-go" data-lang="go"><span class="err">~</span><span class="o">/</span><span class="nx">blog</span> <span class="err">$</span> <span class="nx">tree</span> <span class="o">-</span><span class="nx">L</span> <span class="mi">1</span>
+<span class="p">.</span>                     <span class="err">#</span> <span class="nx">说明</span>             <span class="nx">Hexo</span>
+<span class="err">├──</span> <span class="nx">archetypes</span><span class="o">/</span>     <span class="err">#</span> <span class="nx">文章模板</span>          <span class="nx">scaffolds</span><span class="o">/</span>
+<span class="err">├──</span> <span class="nx">assets</span><span class="o">/</span>         <span class="err">#</span> <span class="nx">Hugo</span> <span class="nx">管道</span>
+<span class="err">├──</span> <span class="nx">config</span><span class="p">.</span><span class="nx">toml</span>     <span class="err">#</span> <span class="nx">配置文件</span>          <span class="nx">_config</span><span class="p">.</span><span class="nx">yml</span>
+<span class="err">├──</span> <span class="nx">content</span><span class="o">/</span>        <span class="err">#</span> <span class="nx">文章目录</span>          <span class="nx">source</span><span class="o">/</span><span class="nx">_posts</span><span class="o">/</span>
+<span class="err">├──</span> <span class="nx">data</span><span class="o">/</span>           <span class="err">#</span> <span class="nx">Hugo</span> <span class="nx">数据文件</span>     <span class="nx">source</span><span class="o">/</span><span class="nx">_data</span><span class="o">/</span>
+<span class="err">├──</span> <span class="nx">layouts</span><span class="o">/</span>        <span class="err">#</span> <span class="nx">布局模板</span>
+<span class="err">├──</span> <span class="nx">public</span><span class="o">/</span>         <span class="err">#</span> <span class="nx">生成的静态文件</span>     <span class="nx">public</span><span class="o">/</span>
+<span class="err">├──</span> <span class="nx">resources</span><span class="o">/</span>      <span class="err">#</span> <span class="nx">Hugo</span> <span class="nx">缓存</span>
+<span class="err">├──</span> <span class="nx">static</span><span class="o">/</span>         <span class="err">#</span> <span class="nx">网站的静态文件</span>     <span class="nx">source</span><span class="o">/</span>
+<span class="err">└──</span> <span class="nx">themes</span><span class="o">/</span>         <span class="err">#</span> <span class="nx">主题目录</span>          <span class="nx">themes</span><span class="o">/</span>
+
+
+</code></pre></div><h4 id="添加一个主题">添加一个主题</h4>
+<p>在官方网站上有很多种主题可以选择，挑一个自己喜欢的主题</p>
+<p><strong>然后把主题里的exampleSite里的文件复制在根目录</strong></p>
+<pre><code>cd blog;\
+git init;\
+git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\
+
+# Edit your config.toml configuration file
+# and add the Ananke theme.
+echo 'theme = &quot;ananke&quot;' &gt;&gt; config.toml
+</code></pre><h4 id="添加一篇新文章">添加一篇新文章</h4>
+<pre><code>hugo new posts/my-first-post.md
+</code></pre><h4 id="查看运行效果">查看运行效果</h4>
+<pre><code>hugo server
+</code></pre><h3 id="四主题配置">四、主题配置</h3>
+<p>主题配置在config下的.toml下的文件中配置，详细配置就不说了，根据自己的情况配置，更多的主题修改可在layout里修改</p>
+<h3 id="五配置github-pages">五、配置GitHub Pages</h3>
+<p>这部分网上教程非常多，首先在 GitHub 上创建一个 Repository，命名为 username.github.io</p>
+<p>把 config.toml 的 basaeURL 修改为 <a href="https://usrname.github.io/">https://usrname.github.io/</a></p>
+<p>然后进入你的 public 目录按照正常 Git 命令操作即可</p>
+<pre><code>$ cd public
+$ git init
+$ git remote add origin https://github.com/username/username.github.io.git
+$ git add -A
+$ git commit -m &quot;first commit&quot;
+$ git push -u origin master
+</code></pre><p>第一次初始化时可能会叫配置用户名和密码：</p>
+<pre><code>git config --global user.name &quot;xxx&quot;
+
+git config --global user.email &quot;xxx@xxx.com&quot;
+</code></pre><p>之后更新文章并生成好静态页面以后，就可以使用 Git push 来同步了</p>
+<pre><code>$ cd public
+$ git add .
+$ git commit -m &quot;add blog post&quot;
+$ git push
+</code></pre><p>关于 Git 的使用说明，可以参考网络上的一大堆教程，这里不再重复。</p>
+<h4 id="编写自动化脚本">编写自动化脚本</h4>
+<p>在根目录下创建deploy.sh，输入如下：</p>
+<pre><code>#!/bin/sh
+
+# If a command fails then the deploy stops
+set -e
+
+printf &quot;\033[0;32mDeploying updates to GitHub...\033[0m\n&quot;
+
+# Build the project.
+hugo # if using a theme, replace with `hugo -t &lt;YOURTHEME&gt;`
+
+# Go To Public folder
+cd public
+
+# Add changes to git.
+git add .
+
+# Commit changes.
+msg=&quot;rebuilding site $(date)&quot;
+if [ -n &quot;$*&quot; ]; then
+	msg=&quot;$*&quot;
+fi
+git commit -m &quot;$msg&quot;
+
+# Push source and build repos.
+git push origin master
+</code></pre><p>此后，编写文章后，双击脚本运行自动上次到GitHub。</p>
 
         
     </article>
@@ -2740,7 +2833,7 @@ document.addEventListener('DOMContentLoaded', function () {
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {
-        var a = new Array("golang", "java", "python", "big data", "hugo", "django", "Cloud Native");
+        var a = new Array("golang", "java", "python", "big data", "hugo", "django", "Cloud");
         var $i = $("<span />").text(a[a_idx]);
         a_idx = (a_idx + 1) % a.length;
         var x = e.pageX,
@@ -2796,9 +2889,7 @@ $(document).ready(function () {
 <script src="https://shijin.fun/js/instantpage.min.js" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
 
 
-<script>(function(w,d, s, id) {if(typeof(w.webpushr)!=='undefined') return;w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.id = id;js.src = "https:\/\/shijin.fun\/js\/app.min.js";
-fjs.parentNode.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
-webpushr('init','BKikRogH2hDWxoFo9FQ16mK3NMVWoTdVwI5roUWbdM6iMz-WLqmGScrLDdhV2MkUdBISZWjJBpd9CQdp5qgSMDY');</script>
+
 
 
             <footer class="footer">
@@ -2822,12 +2913,7 @@ webpushr('init','BKikRogH2hDWxoFo9FQ16mK3NMVWoTdVwI5roUWbdM6iMz-WLqmGScrLDdhV2Mk
                 
             <p class="caption">
                 
-                    
-                    
-
-                    
-                        ©2019-2020, All Rights Reserved<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">自由转载-非商用-非衍生-保持署名</a>
-                    
+                    Copyright ©2019-2020, Shijin All Rights Reserved
                 
             </p>
         
@@ -2885,7 +2971,35 @@ webpushr('init','BKikRogH2hDWxoFo9FQ16mK3NMVWoTdVwI5roUWbdM6iMz-WLqmGScrLDdhV2Mk
           
         </div>
         <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
-          <nav id="TableOfContents"></nav>
+          <nav id="TableOfContents">
+  <ul>
+    <li><a href="#span-idinline-toc1span-原因"><span id="inline-toc">1.<span> 原因</a></li>
+    <li><a href="#span-idinline-toc2span-hexo和hugo的差异"><span id="inline-toc">2.<span> hexo和hugo的差异</a>
+      <ul>
+        <li><a href="#在安装上">在安装上</a></li>
+      </ul>
+    </li>
+    <li><a href="#span-idinline-toc3spanhugo的使用"><span id="inline-toc">3.<span>hugo的使用</a>
+      <ul>
+        <li><a href="#一首先你的电脑必须安装">一、首先你的电脑必须安装</a></li>
+        <li><a href="#二源码安装">二、源码安装</a></li>
+        <li><a href="#三创建站点">三、创建站点</a>
+          <ul>
+            <li><a href="#添加一个主题">添加一个主题</a></li>
+            <li><a href="#添加一篇新文章">添加一篇新文章</a></li>
+            <li><a href="#查看运行效果">查看运行效果</a></li>
+          </ul>
+        </li>
+        <li><a href="#四主题配置">四、主题配置</a></li>
+        <li><a href="#五配置github-pages">五、配置GitHub Pages</a>
+          <ul>
+            <li><a href="#编写自动化脚本">编写自动化脚本</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
         </div>
       
     

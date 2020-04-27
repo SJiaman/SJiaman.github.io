@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
     <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
-    <copyright>&amp;copy;2019-{year}, All Rights Reserved</copyright>
+    <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
@@ -52,7 +52,7 @@
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sat, 25 Apr 2020 16:30:30 +0800</atom:modified>
         <guid>https://shijin.fun/posts/hexo-move-hugo/</guid>
-        <description>前几天完成了hexo向hugo的迁移</description>
+        <description>前几天完成了hexo向hugo的迁移，记录一下过程。 1. 原因 hugo比hexo更快，文章多后就会有差异 hugo是用go写的，正好我正准备学习g</description>
         
         <dc:creator>世今</dc:creator>
         
