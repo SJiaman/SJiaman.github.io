@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>hexo on Shijin&#39;s Blog</title>
+    <title>Hexo on Shijin&#39;s Blog</title>
     <link>https://shijin.fun/tags/hexo/</link>
-    <description>Recent content in hexo on Shijin&#39;s Blog</description>
+    <description>Recent content in Hexo on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
@@ -40,11 +40,7 @@
         
           
             
-              <category>hexo</category>
-            
-          
-            
-              <category>github</category>
+              <category>Hexo</category>
             
           
         

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Regex on Shijin&#39;s Blog</title>
+    <link>https://shijin.fun/tags/regex/</link>
+    <description>Recent content in Regex on Shijin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
+    <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
+    <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 02 May 2020 09:23:01 +0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://shijin.fun/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      
+      <item>
+        <title>Java正则表达式</title>
+        <link>https://shijin.fun/posts/java-regex/</link>
+        <pubDate>Sat, 02 May 2020 09:23:01 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Sat, 02 May 2020 09:23:01 +0800</atom:modified>
+        <guid>https://shijin.fun/posts/java-regex/</guid>
+        <description>1.什么是正则表达式 ​ 正则表达式（regular expression）regex 是一个字符串，用于描述匹配一个字符串集的模式。 ​ 正则表达式是</description>
+        
+        <dc:creator>世今</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Regex</category>
+            
+          
+        
+        
+            
+              <category>Java</category>
+            
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

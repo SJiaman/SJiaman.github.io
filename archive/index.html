@@ -1274,10 +1274,22 @@
 
 <link rel="manifest" href="/manifest.json">
 
-  
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="/favicon.png" sizes="any" type="image/png" />
-  
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-512x512.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 
 
     <script type="application/ld+json">
@@ -1632,6 +1644,16 @@
         <span class="archive__meta" data-ani="true">
           
             <span class="archive__type">posts</span>
+            <span class="archive__date">05-02</span>
+          
+        </span>
+        <a href="https://shijin.fun/posts/java-regex/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Java正则表达式</a>        
+      </li>
+      
+      <li class="archive__li" data-dir="ltr">
+        <span class="archive__meta" data-ani="true">
+          
+            <span class="archive__type">posts</span>
             <span class="archive__date">04-25</span>
           
         </span>
@@ -1645,7 +1667,7 @@
             <span class="archive__date">03-26</span>
           
         </span>
-        <a href="https://shijin.fun/posts/docker%E5%AE%89%E8%A3%85/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Docker的安装</a>        
+        <a href="https://shijin.fun/posts/install-docker/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Docker的安装</a>        
       </li>
       
       <li class="archive__li" data-dir="ltr">
@@ -1655,7 +1677,7 @@
             <span class="archive__date">03-06</span>
           
         </span>
-        <a href="https://shijin.fun/posts/python-excel/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Python简单处理excel</a>        
+        <a href="https://shijin.fun/posts/python-simple-excel/" class="archive__title" data-title-wrap="wrap" data-dir="ltr">Python简单处理excel</a>        
       </li>
       
       <li class="archive__li" data-dir="ltr">
@@ -1715,7 +1737,7 @@
 var a_idx = 0;
 jQuery(document).ready(function($) {
     $("body").click(function(e) {
-        var a = new Array("golang", "java", "python", "big data", "hugo", "django", "Cloud");
+        var a = new Array("哎呦，不错哦","还可以啊", "GOOD","别点了","生气了");
         var $i = $("<span />").text(a[a_idx]);
         a_idx = (a_idx + 1) % a.length;
         var x = e.pageX,
@@ -1801,7 +1823,7 @@ $(document).ready(function () {
         
 
         
-            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo v0.69.1</a> and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a></p>
+            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a></p>
 	    <section class="caption">
     <span id="span_dt_dt"> </span> 
     <script language="javascript">
@@ -1820,7 +1842,7 @@ $(document).ready(function () {
         e_minsold=(e_hrsold-hrsold)*60;
         minsold=Math.floor((e_hrsold-hrsold)*60);
         seconds=Math.floor((e_minsold-minsold)*60);
-        span_dt_dt.innerHTML="本站已经开心运行 "+daysold+" 天 "+hrsold+" 小时 "+minsold+" 分 "+seconds+" 秒";
+        span_dt_dt.innerHTML="本站已开心运行了 "+daysold+" 天 "+hrsold+" 小时 "+minsold+" 分 "+seconds+" 秒";
       }
       show_date_time();
     </script>
