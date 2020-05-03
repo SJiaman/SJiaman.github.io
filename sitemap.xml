@@ -14,12 +14,32 @@
   
   <url>
     <loc>https://shijin.fun/categories/</loc>
-    <lastmod>2020-05-02T09:23:01+08:00</lastmod>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shijin.fun/tags/java/</loc>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://shijin.fun/categories/java/</loc>
-    <lastmod>2020-05-02T09:23:01+08:00</lastmod>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shijin.fun/tags/</loc>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shijin.fun/posts/</loc>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shijin.fun/posts/object-oriented-thinking/</loc>
+    <lastmod>2020-05-03T11:00:49+08:00</lastmod>
   </url>
   
   <url>
@@ -29,16 +49,6 @@
   
   <url>
     <loc>https://shijin.fun/tags/regex/</loc>
-    <lastmod>2020-05-02T09:23:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shijin.fun/tags/</loc>
-    <lastmod>2020-05-02T09:23:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shijin.fun/posts/</loc>
     <lastmod>2020-05-02T09:23:01+08:00</lastmod>
   </url>
   
