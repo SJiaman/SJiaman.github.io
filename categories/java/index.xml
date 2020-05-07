@@ -14,7 +14,7 @@
     <managingEditor>2433313140@qq.com (一只特立独行的猴子)</managingEditor>
     <webMaster>2433313140@qq.com (一只特立独行的猴子)</webMaster>
     <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 03 May 2020 11:00:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 14:50:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://shijin.fun/categories/java/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,34 @@
     
 
       
+      
+      <item>
+        <title>面向对象三大特性</title>
+        <link>https://shijin.fun/posts/encapsulation-inheritance-polymorphism/</link>
+        <pubDate>Wed, 06 May 2020 14:50:30 +0800</pubDate>
+        <author>2433313140@qq.com (一只特立独行的猴子)</author>
+        <atom:modified>Wed, 06 May 2020 14:50:30 +0800</atom:modified>
+        <guid>https://shijin.fun/posts/encapsulation-inheritance-polymorphism/</guid>
+        <description>面向对象程序设计的三大支柱：封装、继承、多态 类与对象 类为对象定义属性和行为，类是一个模板、蓝本、条约。 对象代表现实世界的可以明确标识的一个实</description>
+        
+        <dc:creator>世今</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+            
+              <category>Java</category>
+            
+        
+        
+      </item>
       
       <item>
         <title>面向对象的思考</title>
@@ -69,6 +97,10 @@
           
             
               <category>Regex</category>
+            
+          
+            
+              <category>Java</category>
             
           
         
