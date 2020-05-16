@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/series/</link>
+    <link>https://sjiaman.github.io/series/</link>
     <description>Recent content in Series on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>Copyright &amp;copy;2019-{year}, Shijin All Rights Reserved</copyright>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

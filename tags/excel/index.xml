@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Excel on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/tags/excel/</link>
+    <link>https://sjiaman.github.io/tags/excel/</link>
     <description>Recent content in Excel on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Fri, 06 Mar 2020 16:30:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -26,11 +26,11 @@
       
       <item>
         <title>Python简单处理excel</title>
-        <link>https://shijin.fun/posts/python-simple-excel/</link>
+        <link>https://sjiaman.github.io/posts/python-simple-excel/</link>
         <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Fri, 06 Mar 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/python-simple-excel/</guid>
+        <guid>https://sjiaman.github.io/posts/python-simple-excel/</guid>
         <description>1.引言 平时经常处理一些Excel文件，小的文件直接用Excel处理还行，大的文件，可以试着用python来处理，相对比较方便，而且pyth</description>
         
         <dc:creator>世今</dc:creator>

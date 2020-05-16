@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SharpFactory on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/showcase/sharpfactory/</link>
+    <link>https://sjiaman.github.io/showcase/sharpfactory/</link>
     <description>Recent content in SharpFactory on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sun, 26 Apr 2020 21:04:11 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/showcase/sharpfactory/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/showcase/sharpfactory/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -26,11 +26,11 @@
       
       <item>
         <title>SharpFactory</title>
-        <link>https://shijin.fun/showcase/sharpfactory/sharpfactory/</link>
+        <link>https://sjiaman.github.io/showcase/sharpfactory/sharpfactory/</link>
         <pubDate>Sun, 26 Apr 2020 21:13:42 +0900</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sun, 26 Apr 2020 21:13:42 +0900</atom:modified>
-        <guid>https://shijin.fun/showcase/sharpfactory/sharpfactory/</guid>
+        <guid>https://sjiaman.github.io/showcase/sharpfactory/sharpfactory/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>
@@ -44,11 +44,11 @@
       
       <item>
         <title>WeBlog</title>
-        <link>https://shijin.fun/showcase/sharpfactory/weblog/</link>
+        <link>https://sjiaman.github.io/showcase/sharpfactory/weblog/</link>
         <pubDate>Sun, 26 Apr 2020 21:13:42 +0900</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sun, 26 Apr 2020 21:13:42 +0900</atom:modified>
-        <guid>https://shijin.fun/showcase/sharpfactory/weblog/</guid>
+        <guid>https://sjiaman.github.io/showcase/sharpfactory/weblog/</guid>
         <description></description>
         
         <dc:creator>一只特立独行的猴子</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hexo on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/tags/hexo/</link>
+    <link>https://sjiaman.github.io/tags/hexo/</link>
     <description>Recent content in Hexo on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Tue, 08 Oct 2019 16:30:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -26,11 +26,11 @@
       
       <item>
         <title>Hexo&#43;GitHub搭建博客</title>
-        <link>https://shijin.fun/posts/hexo-github/</link>
+        <link>https://sjiaman.github.io/posts/hexo-github/</link>
         <pubDate>Tue, 08 Oct 2019 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Tue, 08 Oct 2019 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/hexo-github/</guid>
+        <guid>https://sjiaman.github.io/posts/hexo-github/</guid>
         <description>在国庆前一个星期，我准备自己写一个博客网站，于是在网上查了一下怎么写才好，本来想自己一步步的来，但是看了一下网上一些比较好的博客网站，发现他</description>
         
         <dc:creator>世今</dc:creator>

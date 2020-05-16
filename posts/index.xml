@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>博客 on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/posts/</link>
+    <link>https://sjiaman.github.io/posts/</link>
     <description>Recent content in 博客 on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Wed, 06 May 2020 14:50:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -26,11 +26,11 @@
       
       <item>
         <title>面向对象三大特性</title>
-        <link>https://shijin.fun/posts/encapsulation-inheritance-polymorphism/</link>
+        <link>https://sjiaman.github.io/posts/encapsulation-inheritance-polymorphism/</link>
         <pubDate>Wed, 06 May 2020 14:50:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Wed, 06 May 2020 14:50:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/encapsulation-inheritance-polymorphism/</guid>
+        <guid>https://sjiaman.github.io/posts/encapsulation-inheritance-polymorphism/</guid>
         <description>面向对象程序设计的三大支柱：封装、继承、多态 类与对象 类为对象定义属性和行为，类是一个模板、蓝本、条约。 对象代表现实世界的可以明确标识的一个实</description>
         
         <dc:creator>世今</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>面向对象的思考</title>
-        <link>https://shijin.fun/posts/object-oriented-thinking/</link>
+        <link>https://sjiaman.github.io/posts/object-oriented-thinking/</link>
         <pubDate>Sun, 03 May 2020 11:00:49 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sun, 03 May 2020 11:00:49 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/object-oriented-thinking/</guid>
+        <guid>https://sjiaman.github.io/posts/object-oriented-thinking/</guid>
         <description>1、 面向对象和面向过程的区别 ​ 以前学习C语言是，用的是面向过程的开发方法，就是把整个需求过程给分析出来，列出步骤，根据每一个步骤啊，写一个对</description>
         
         <dc:creator>世今</dc:creator>
@@ -82,11 +82,11 @@
       
       <item>
         <title>Java正则表达式</title>
-        <link>https://shijin.fun/posts/java-regex/</link>
+        <link>https://sjiaman.github.io/posts/java-regex/</link>
         <pubDate>Sat, 02 May 2020 09:23:01 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sat, 02 May 2020 09:23:01 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/java-regex/</guid>
+        <guid>https://sjiaman.github.io/posts/java-regex/</guid>
         <description>1.什么是正则表达式 ​ 正则表达式（regular expression）regex 是一个字符串，用于描述匹配一个字符串集的模式。 ​ 正则表达式是</description>
         
         <dc:creator>世今</dc:creator>
@@ -114,11 +114,11 @@
       
       <item>
         <title>Hexo迁移到Hugo</title>
-        <link>https://shijin.fun/posts/hexo-move-hugo/</link>
+        <link>https://sjiaman.github.io/posts/hexo-move-hugo/</link>
         <pubDate>Sat, 25 Apr 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sat, 25 Apr 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/hexo-move-hugo/</guid>
+        <guid>https://sjiaman.github.io/posts/hexo-move-hugo/</guid>
         <description>前几天完成了hexo向hugo的迁移，记录一下过程。 1. 原因 hugo比hexo更快，文章多后就会有差异 hugo是用go写的，正好我正准备学习g</description>
         
         <dc:creator>世今</dc:creator>
@@ -142,11 +142,11 @@
       
       <item>
         <title>Docker的安装</title>
-        <link>https://shijin.fun/posts/install-docker/</link>
+        <link>https://sjiaman.github.io/posts/install-docker/</link>
         <pubDate>Thu, 26 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Thu, 26 Mar 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/install-docker/</guid>
+        <guid>https://sjiaman.github.io/posts/install-docker/</guid>
         <description>什么是Docker ​ Docker 是一个开源项目，诞生于 2013 年初，最初是 dotCloud 公司内部的一个业余项目。它基于 Google 公司推出的 Go 语言实现。 项目后来加入了 Linux 基金会，遵</description>
         
         <dc:creator>世今</dc:creator>
@@ -170,11 +170,11 @@
       
       <item>
         <title>Python简单处理excel</title>
-        <link>https://shijin.fun/posts/python-simple-excel/</link>
+        <link>https://sjiaman.github.io/posts/python-simple-excel/</link>
         <pubDate>Fri, 06 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Fri, 06 Mar 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/python-simple-excel/</guid>
+        <guid>https://sjiaman.github.io/posts/python-simple-excel/</guid>
         <description>1.引言 平时经常处理一些Excel文件，小的文件直接用Excel处理还行，大的文件，可以试着用python来处理，相对比较方便，而且pyth</description>
         
         <dc:creator>世今</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>Markdown的简单使用</title>
-        <link>https://shijin.fun/posts/markdown-use/</link>
+        <link>https://sjiaman.github.io/posts/markdown-use/</link>
         <pubDate>Mon, 02 Mar 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Mon, 02 Mar 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/markdown-use/</guid>
+        <guid>https://sjiaman.github.io/posts/markdown-use/</guid>
         <description>Markdown是一种标记语言，语法简单，易阅读易编写，可以让用户完全脱离鼠标写出样式丰富的文档，广受程序员喜爱，目前许多网站都已经支持通过</description>
         
         <dc:creator>世今</dc:creator>
@@ -230,11 +230,11 @@
       
       <item>
         <title>Hexo&#43;GitHub搭建博客</title>
-        <link>https://shijin.fun/posts/hexo-github/</link>
+        <link>https://sjiaman.github.io/posts/hexo-github/</link>
         <pubDate>Tue, 08 Oct 2019 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Tue, 08 Oct 2019 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/hexo-github/</guid>
+        <guid>https://sjiaman.github.io/posts/hexo-github/</guid>
         <description>在国庆前一个星期，我准备自己写一个博客网站，于是在网上查了一下怎么写才好，本来想自己一步步的来，但是看了一下网上一些比较好的博客网站，发现他</description>
         
         <dc:creator>世今</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on Shijin&#39;s Blog</title>
-    <link>https://shijin.fun/tags/hugo/</link>
+    <link>https://sjiaman.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Shijin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sat, 25 Apr 2020 16:30:30 +0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
-        <atom:link href="https://shijin.fun/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sjiaman.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -26,11 +26,11 @@
       
       <item>
         <title>Hexo迁移到Hugo</title>
-        <link>https://shijin.fun/posts/hexo-move-hugo/</link>
+        <link>https://sjiaman.github.io/posts/hexo-move-hugo/</link>
         <pubDate>Sat, 25 Apr 2020 16:30:30 +0800</pubDate>
         <author>2433313140@qq.com (一只特立独行的猴子)</author>
         <atom:modified>Sat, 25 Apr 2020 16:30:30 +0800</atom:modified>
-        <guid>https://shijin.fun/posts/hexo-move-hugo/</guid>
+        <guid>https://sjiaman.github.io/posts/hexo-move-hugo/</guid>
         <description>前几天完成了hexo向hugo的迁移，记录一下过程。 1. 原因 hugo比hexo更快，文章多后就会有差异 hugo是用go写的，正好我正准备学习g</description>
         
         <dc:creator>世今</dc:creator>
