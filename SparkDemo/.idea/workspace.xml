@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3522ed4e-07f9-4e4d-9678-d07a49147bc9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\Maven\repository" />
+        <option name="mavenHome" value="D:/Software/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nbnlkeAx68MszSZDccR7u6WrBS" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Exercise\bigdata\SparkDemo\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DoubleValue">
+    <configuration name="DoubleValue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.sparkdemo.core.operator.transformation.DoubleValue" />
+      <module name="SparkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.sparkdemo.core.operator.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="value09_distinct" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.sparkdemo.core.operator.transformation.value09_distinct" />
+      <module name="SparkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.sparkdemo.core.operator.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="value10_coalesce" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.sparkdemo.core.operator.transformation.value10_coalesce" />
+      <module name="SparkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.sparkdemo.core.operator.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="value11_repartition" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.sparkdemo.core.operator.transformation.value11_repartition" />
+      <module name="SparkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.sparkdemo.core.operator.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="value12_sortBy" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.sparkdemo.core.operator.transformation.value12_sortBy" />
+      <module name="SparkDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.sparkdemo.core.operator.transformation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DoubleValue" />
+        <item itemvalue="Application.value12_sortBy" />
+        <item itemvalue="Application.value11_repartition" />
+        <item itemvalue="Application.value10_coalesce" />
+        <item itemvalue="Application.value09_distinct" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3522ed4e-07f9-4e4d-9678-d07a49147bc9" name="Default Changelist" comment="" />
+      <created>1611667810132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611667810132</updated>
+      <workItem from="1611667814448" duration="855000" />
+      <workItem from="1611668758109" duration="214000" />
+      <workItem from="1611668989780" duration="645000" />
+      <workItem from="1611669699174" duration="1456000" />
+      <workItem from="1611722222538" duration="162000" />
+      <workItem from="1611726077302" duration="72000" />
+      <workItem from="1611928263568" duration="1798000" />
+      <workItem from="1611977304641" duration="844000" />
+      <workItem from="1613458291203" duration="1925000" />
+      <workItem from="1613471389168" duration="3413000" />
+      <workItem from="1613533984077" duration="3953000" />
+      <workItem from="1613630374313" duration="581000" />
+      <workItem from="1613709100874" duration="2083000" />
+      <workItem from="1613728622493" duration="1283000" />
+      <workItem from="1614909789654" duration="1942000" />
+      <workItem from="1615022291790" duration="2670000" />
+      <workItem from="1615206731656" duration="597000" />
+      <workItem from="1615810148734" duration="3399000" />
+      <workItem from="1620295639815" duration="844000" />
+      <workItem from="1620522997463" duration="702000" />
+      <workItem from="1620632399388" duration="73000" />
+      <workItem from="1622467735657" duration="1603000" />
+      <workItem from="1624493586426" duration="1884000" />
+      <workItem from="1626705305014" duration="317000" />
+      <workItem from="1627785012834" duration="5005000" />
+      <workItem from="1627866543741" duration="6120000" />
+      <workItem from="1627955571161" duration="12697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
