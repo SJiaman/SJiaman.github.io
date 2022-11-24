@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="489dd976-301b-43f9-a54c-0043e69d0947" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\Maven\repository" />
+        <option name="mavenHome" value="D:/Software/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iVaIQv57xwlUKrB3L3wSeFo7vs" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scalabasic/src/main/scala/fun/shijin/scalabasic/game" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Demo\bigdata\scala\scalabasic\src\main\scala\fun\shijin\scalabasic\game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SmallGame">
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.scalabasic.chapter07.Collection" />
+      <module name="scalabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.scalabasic.chapter07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallGame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.scalabasic.game.SmallGame" />
+      <module name="scalabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.scalabasic.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.scalabasic.chapter05.Test" />
+      <module name="scalabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.scalabasic.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.scalabasic.chapter05.Test1" />
+      <module name="scalabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.scalabasic.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fun.shijin.scalabasic.chapter05.Test2" />
+      <module name="scalabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.shijin.scalabasic.chapter05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmallGame" />
+        <item itemvalue="Application.Collection" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="489dd976-301b-43f9-a54c-0043e69d0947" name="Default Changelist" comment="" />
+      <created>1601995132913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601995132913</updated>
+      <workItem from="1601995137341" duration="861000" />
+      <workItem from="1601996025762" duration="164000" />
+      <workItem from="1601996728458" duration="410000" />
+      <workItem from="1602064402827" duration="166000" />
+      <workItem from="1604326819172" duration="943000" />
+      <workItem from="1604377131120" duration="4987000" />
+      <workItem from="1604673377525" duration="866000" />
+      <workItem from="1604744471575" duration="738000" />
+      <workItem from="1606897469039" duration="2114000" />
+      <workItem from="1606963216517" duration="361000" />
+      <workItem from="1610183580563" duration="4180000" />
+      <workItem from="1610289021626" duration="1826000" />
+      <workItem from="1610461027024" duration="1864000" />
+      <workItem from="1610532700348" duration="7894000" />
+      <workItem from="1610626690395" duration="710000" />
+      <workItem from="1610784231310" duration="10806000" />
+      <workItem from="1610855439539" duration="603000" />
+      <workItem from="1611226342545" duration="7317000" />
+      <workItem from="1611284396018" duration="5049000" />
+      <workItem from="1611374143542" duration="11564000" />
+      <workItem from="1611465702606" duration="2759000" />
+      <workItem from="1611495406023" duration="2486000" />
+      <workItem from="1611579466841" duration="3620000" />
+      <workItem from="1611583558279" duration="204000" />
+      <workItem from="1619667166638" duration="5459000" />
+      <workItem from="1620203708659" duration="98000" />
+      <workItem from="1620259293388" duration="5535000" />
+      <workItem from="1620290394576" duration="4758000" />
+      <workItem from="1620521662832" duration="1128000" />
+      <workItem from="1620522976758" duration="18000" />
+      <workItem from="1620864077912" duration="8014000" />
+      <workItem from="1620902656241" duration="4643000" />
+      <workItem from="1621037947092" duration="6984000" />
+      <workItem from="1621216334167" duration="91000" />
+      <workItem from="1621469260973" duration="4957000" />
+      <workItem from="1621474888749" duration="9178000" />
+      <workItem from="1621586824160" duration="1250000" />
+      <workItem from="1621738980399" duration="27000" />
+      <workItem from="1622074030397" duration="7919000" />
+      <workItem from="1622104720366" duration="6293000" />
+      <workItem from="1622364192498" duration="78000" />
+      <workItem from="1622470617752" duration="1719000" />
+      <workItem from="1622538546779" duration="614000" />
+      <workItem from="1622678750732" duration="8692000" />
+      <workItem from="1622690209947" duration="7864000" />
+      <workItem from="1622851455861" duration="6417000" />
+      <workItem from="1623140953945" duration="4654000" />
+      <workItem from="1623208826446" duration="671000" />
+      <workItem from="1626361180963" duration="1097000" />
+      <workItem from="1626417590572" duration="2654000" />
+      <workItem from="1626453934537" duration="35000" />
+      <workItem from="1626512919985" duration="38000" />
+      <workItem from="1626694557684" duration="1695000" />
+      <workItem from="1626843208928" duration="997000" />
+      <workItem from="1626918579245" duration="1006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
